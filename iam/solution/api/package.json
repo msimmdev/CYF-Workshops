@@ -1,0 +1,28 @@
+{
+  "name": "cyf-iam-workshop-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msimmdev/cyf-iam-workshop.git"
+  },
+  "author": "Michael Simm",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/msimmdev/cyf-iam-workshop/issues"
+  },
+  "homepage": "https://github.com/msimmdev/cyf-iam-workshop#readme",
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "morgan": "~1.9.1",
+    "oidc-client-ts": "^3.0.0-rc.0"
+  }
+}
