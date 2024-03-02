@@ -1,0 +1,7 @@
+name: cyf-iam
+runtime: nodejs
+description: An exercise to demonstrate IAM implementation to CYF trainees
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: azure-typescript
