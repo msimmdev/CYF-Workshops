@@ -1,9 +1,10 @@
 # CYF Identity & Access Management Workshop
 1. Fork and clone the repository
-2. Run `npm install` in the root folder
-3. Run `npm start -w api` in the root folder to start the API
-4. Run `npm run dev -w app` in the root folder to start the React App
-5. Navigate to http://localhost:5173/ to see the app
+2. Navigate to the exercise folder in the project.
+3. Run `npm install` in the exercise folder
+4. Run `npm start -w api` in the exercise folder to start the API
+5. Run `npm run dev -w app` in the exercise folder to start the React App
+6. Navigate to http://localhost:5173/ to see the app
 ## Requirements
 1. All users accessing the app should be able to see the free cats
 2. All users that are authenticated with an account should be able to see the premium cats
